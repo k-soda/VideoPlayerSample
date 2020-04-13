@@ -12,6 +12,7 @@
 		503AF770227BCB9600C160AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503AF76E227BCB9600C160AA /* Main.storyboard */; };
 		503AF772227BCB9700C160AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503AF771227BCB9700C160AA /* Assets.xcassets */; };
 		503AF775227BCB9700C160AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503AF773227BCB9700C160AA /* LaunchScreen.storyboard */; };
+		505755D82444827F000F2902 /* file_example_MP4_480_1_5MG.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 505755D72444827F000F2902 /* file_example_MP4_480_1_5MG.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		503AF771227BCB9700C160AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		503AF774227BCB9700C160AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		503AF776227BCB9700C160AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		505755D72444827F000F2902 /* file_example_MP4_480_1_5MG.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = file_example_MP4_480_1_5MG.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		503AF75E227BCB9600C160AA = {
 			isa = PBXGroup;
 			children = (
+				505755D72444827F000F2902 /* file_example_MP4_480_1_5MG.mp4 */,
 				503AF769227BCB9600C160AA /* VideoPlayerSample */,
 				503AF768227BCB9600C160AA /* Products */,
 			);
@@ -125,6 +128,7 @@
 				503AF775227BCB9700C160AA /* LaunchScreen.storyboard in Resources */,
 				503AF772227BCB9700C160AA /* Assets.xcassets in Resources */,
 				503AF770227BCB9600C160AA /* Main.storyboard in Resources */,
+				505755D82444827F000F2902 /* file_example_MP4_480_1_5MG.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
